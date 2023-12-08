@@ -1,0 +1,94 @@
+
+.main{
+    display: flex;
+}
+.main2{
+    display: flex;
+}
+
+.div1{
+    width: 100px;
+    height:100px;
+    background-color: black;
+    align-items: center;
+    
+}.div2{
+    width: 100px;
+    height:100px;
+    background-color: rgb(168, 166, 166);
+}
+.div3{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}
+.div4{
+    width: 100px;
+    height:100px;
+    background-color: rgb(148, 146, 146);
+}
+.div5{
+    width: 100px;
+    height:100px;
+    background-color: rgb(12, 12, 12);
+}
+.div6{
+    width: 100px;
+    height:100px;
+    background-color: rgb(148, 147, 147);
+}
+.div7{
+    width: 100px;
+    height:100px;
+    background-color: black;
+    align-items: center;
+}
+.div8{
+    width: 100px;
+    height:100px;
+    background-color: rgb(158, 156, 156);
+    align-items: center;
+}
+.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+    align-items: center;
+}
+.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}.div9{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}
